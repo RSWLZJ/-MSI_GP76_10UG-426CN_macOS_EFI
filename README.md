@@ -1,0 +1,1 @@
+# -MSI_GP76_10UG-426CN_macOS_EFI
